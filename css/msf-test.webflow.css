@@ -940,7 +940,7 @@
 .section-3 {
   margin-top: 0px;
   margin-bottom: 0px;
-  padding-top: 119px;
+  padding-top: 0px;
   padding-bottom: 119px;
   border-bottom: 0px solid #000;
   background-color: transparent;
@@ -1755,7 +1755,8 @@
   margin: 0px 20px 49px 0px;
   font-family: 'Tiro Tamil', sans-serif;
   color: #252c39;
-  font-size: 30px;
+  font-size: 47px;
+  line-height: 50px;
   font-weight: 400;
 }
 
@@ -1805,6 +1806,8 @@
 
 .pmappa.p1map {
   font-family: 'Tiro Tamil', sans-serif;
+  font-size: 20px;
+  line-height: 27px;
   font-style: italic;
   font-weight: 400;
 }
@@ -1902,8 +1905,8 @@
   align-items: flex-end;
   font-family: 'Tiro Tamil', sans-serif;
   color: #000;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 21px;
+  line-height: 26px;
   font-style: normal;
   text-align: left;
 }
@@ -2543,8 +2546,8 @@
   padding-right: 200px;
   padding-left: 200px;
   font-family: 'Tiro Tamil', sans-serif;
-  font-size: 23px;
-  line-height: 28px;
+  font-size: 30px;
+  line-height: 38px;
 }
 
 .section-17 {
@@ -3007,11 +3010,11 @@
 }
 
 .heading-18-copy {
-  padding-top: 180px;
-  padding-bottom: 45px;
+  padding-top: 70px;
+  padding-bottom: 15px;
   font-family: 'Tiro Tamil', sans-serif;
   color: #252c39;
-  font-size: 50px;
+  font-size: 26px;
   font-weight: 400;
 }
 
